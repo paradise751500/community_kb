@@ -4,6 +4,8 @@ In NodeReal, we share knowledge to make ourselves a better team to grow. You are
 
 ![hannah-busing-Zyx1bK9mqmA-unsplash](https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
 ![padding](https://img.shields.io/badge/build-passing-brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/your-repo-name?style=social)
+
 
 ## Categories
 
